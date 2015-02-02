@@ -1,0 +1,272 @@
+
+assets1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coastbg
+  rotate: false
+  xy: 2, 2
+  size: 1770, 600
+  orig: 1770, 600
+  offset: 0, 0
+  index: -1
+demonPowerful
+  rotate: false
+  xy: 2, 604
+  size: 1878, 218
+  orig: 1878, 218
+  offset: 0, 0
+  index: -1
+MonkeySheetSmallScale
+  rotate: false
+  xy: 2, 824
+  size: 760, 95
+  orig: 760, 95
+  offset: 0, 0
+  index: -1
+fish3
+  rotate: false
+  xy: 764, 824
+  size: 900, 70
+  orig: 900, 70
+  offset: 0, 0
+  index: -1
+EditorGrid
+  rotate: false
+  xy: 1774, 2
+  size: 90, 600
+  orig: 90, 600
+  offset: 0, 0
+  index: -1
+TomatoSpriteSheet
+  rotate: false
+  xy: 2, 921
+  size: 504, 100
+  orig: 504, 100
+  offset: 0, 0
+  index: -1
+StrawberrySpriteSheet
+  rotate: false
+  xy: 764, 896
+  size: 504, 100
+  orig: 504, 100
+  offset: 0, 0
+  index: -1
+ElementsGrid
+  rotate: false
+  xy: 1866, 2
+  size: 90, 542
+  orig: 90, 542
+  offset: 0, 0
+  index: -1
+DaBoss
+  rotate: false
+  xy: 1882, 604
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+spikeImg2
+  rotate: false
+  xy: 1882, 706
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+spikeImg
+  rotate: false
+  xy: 508, 921
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+sticky
+  rotate: false
+  xy: 600, 921
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+MovingLedge
+  rotate: false
+  xy: 1270, 896
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+ledge
+  rotate: false
+  xy: 1270, 958
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+launch
+  rotate: false
+  xy: 1362, 896
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 1362, 958
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+FalseTileOverlay
+  rotate: false
+  xy: 1454, 896
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+checkpoint
+  rotate: false
+  xy: 1866, 546
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+key
+  rotate: false
+  xy: 1958, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+testBox
+  rotate: false
+  xy: 1958, 64
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+testBox
+  rotate: false
+  xy: 1958, 64
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+bullet2
+  rotate: false
+  xy: 764, 998
+  size: 200, 10
+  orig: 200, 10
+  offset: 0, 0
+  index: -1
+
+assets2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+forestbg
+  rotate: false
+  xy: 2, 2
+  size: 1700, 600
+  orig: 1700, 600
+  offset: 0, 0
+  index: -1
+demon
+  rotate: false
+  xy: 2, 604
+  size: 1878, 218
+  orig: 1878, 218
+  offset: 0, 0
+  index: -1
+OrangeSpriteSheet
+  rotate: false
+  xy: 2, 824
+  size: 504, 100
+  orig: 504, 100
+  offset: 0, 0
+  index: -1
+BanannaSpriteSheet
+  rotate: false
+  xy: 508, 824
+  size: 504, 100
+  orig: 504, 100
+  offset: 0, 0
+  index: -1
+AppleSpriteSheet
+  rotate: false
+  xy: 1014, 824
+  size: 504, 100
+  orig: 504, 100
+  offset: 0, 0
+  index: -1
+
+assets3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+platBackground
+  rotate: false
+  xy: 2, 2
+  size: 900, 600
+  orig: 900, 600
+  offset: 0, 0
+  index: -1
+SignUpClose
+  rotate: false
+  xy: 904, 2
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: -1
+MediumRavanaSheet
+  rotate: false
+  xy: 2, 604
+  size: 720, 360
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+SwdEnemyIdle
+  rotate: false
+  xy: 904, 504
+  size: 600, 60
+  orig: 600, 60
+  offset: 0, 0
+  index: -1
+GunmanIdle
+  rotate: false
+  xy: 904, 566
+  size: 600, 60
+  orig: 600, 60
+  offset: 0, 0
+  index: -1
+Gunman
+  rotate: false
+  xy: 904, 628
+  size: 600, 60
+  orig: 600, 60
+  offset: 0, 0
+  index: -1
+canon
+  rotate: false
+  xy: 904, 690
+  size: 600, 60
+  orig: 600, 60
+  offset: 0, 0
+  index: -1
+
+assets4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Gate
+  rotate: false
+  xy: 2, 2
+  size: 1953, 200
+  orig: 1953, 200
+  offset: 0, 0
+  index: -1
+Signpost
+  rotate: false
+  xy: 2, 204
+  size: 408, 598
+  orig: 408, 598
+  offset: 0, 0
+  index: -1
